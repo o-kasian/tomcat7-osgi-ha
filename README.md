@@ -46,7 +46,7 @@ An example for felix ExtHttpService:
 
 ```
 
-### 2. Add tomcat7-osgi-ha **jar** file to tomcat **lib/** directory
+### 2. Add [tomcat7-osgi-ha.jar](https://github.com/o-kasian/tomcat7-osgi-ha/releases/download/0.01/tomcat7-osgi-ha.jar) file to tomcat **lib/** directory
 ### 3. Configure ```<Cluster/>``` section in **server.xml** like in example
 
 ```xml
