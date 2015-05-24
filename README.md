@@ -61,7 +61,7 @@ An example for felix ExtHttpService:
 
 Here
 
-**attributeName** - is responsible for holding ```ClassLoader, BundleContext or Reference<ClassLoader>```
+**attributeName** - is responsible for holding ```ClassLoader, BundleContext or Reference<ClassLoader>```<br>
 **initialized** - when set to false, messaging does not start untill atrribute appears in context
 
 **org.apache.catalina.contrib.osgi.ha.OSGIDeltaManager** - is an extended **org.apache.catalina.ha.session.DeltaManager** though it supports all it's configuration
